@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# FAISS / Vector DB
+faiss_index/
+faiss_index.bin
+faiss_index.pkl
+
+# Tools/IDEs
+.DS_Store
+.vscode/
+.idea/
+
+# Samples
+samples/
+test_doc.txt
+research_answer.txt
